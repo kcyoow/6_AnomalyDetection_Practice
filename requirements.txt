@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+pillow
+tqdm
+wget
+gradio
+catboost

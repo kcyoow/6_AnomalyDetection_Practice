@@ -1,0 +1,7 @@
+VisA/
+VisA_20220922.tar
+padim_outputs/
+test_results/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
